@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Valid Login_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fee7ad31-f809-43cd-b3d2-4cfd3c258a57</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5905159d-e48e-4a23-a023-3fb26b951be2</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e937fb6-643e-48b2-9a4a-1b05d5641c83</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>497685cf-d0e4-43e6-91e6-3af0e6ef00ba</id>
+      <masked>false</masked>
+      <name>Token</name>
+   </variable>
+</TestCaseEntity>

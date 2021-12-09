@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Email_AMU Maker_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62e7c5fb-53ff-428f-8c47-604bf15cf620</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b8326ff-04ea-457e-97c4-8536f7ceaa56</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ffcd142-c256-4c4d-92d6-31c94c421777</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7659b3c3-e089-4d60-b954-b363632393ff</id>
+      <masked>false</masked>
+      <name>Token</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0dd7c083-dda5-4efd-876b-b05631405b70</id>
+      <masked>false</masked>
+      <name>Customer_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c8aa88d-1005-49d2-a6bc-894af3d80161</id>
+      <masked>false</masked>
+      <name>New_Email_Address</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94d1a6e8-a0cf-41b9-b50c-2b59c6878360</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8663c331-1bd3-40bf-bd25-948e08202d3f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d95f34aa-8fb0-461d-a94f-6c88e28c9044</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0809716-b03a-4d40-a4d9-38bb36077a7b</id>
+      <masked>false</masked>
+      <name>Token</name>
+   </variable>
+</TestCaseEntity>

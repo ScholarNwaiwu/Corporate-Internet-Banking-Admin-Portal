@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Phone Number_AMU Maker_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c276586b-e1da-4da6-8ecd-abba0c8aee40</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2a1dc5c-8dcf-43ce-9b01-6e40fe1d9061</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>130f9349-d479-4ffd-b69a-ad750ac65848</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cbfb3dd-eef5-4a27-97b4-7295c4de903f</id>
+      <masked>false</masked>
+      <name>Token</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04e3c5e8-4ca3-40ab-bacd-2d28f1d5adbc</id>
+      <masked>false</masked>
+      <name>Customer_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5343271a-7709-4422-8491-9a2ac6698123</id>
+      <masked>false</masked>
+      <name>New_Phone_Number</name>
+   </variable>
+</TestCaseEntity>

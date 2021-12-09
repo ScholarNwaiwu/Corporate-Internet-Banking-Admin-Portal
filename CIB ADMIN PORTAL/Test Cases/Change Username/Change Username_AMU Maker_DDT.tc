@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Username_AMU Maker_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16e42924-9793-40ba-950f-d4ca58400fd4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>11a8c82b-d655-40cb-8d5e-82d5b0115809</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7dc74a87-e804-40ff-b2c2-8c8a0abdfd17</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2576df60-7ee3-4e38-8855-ebcd1f148411</id>
+      <masked>false</masked>
+      <name>Token</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48add62e-3606-4268-997d-a9cc28613826</id>
+      <masked>false</masked>
+      <name>Customer_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7428181-6a3d-4083-8808-e6c6682e4a5a</id>
+      <masked>false</masked>
+      <name>New_Username</name>
+   </variable>
+</TestCaseEntity>

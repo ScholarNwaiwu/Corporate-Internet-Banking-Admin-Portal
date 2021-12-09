@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CIB_Admin_Portal_Regression</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>e9603c20-441c-4a6b-88a6-0e24e6fa237e</testSuiteGuid>
+   <testCaseLink>
+      <guid>fc1433f4-2acc-4a84-91fc-0df6d3c0bf69</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Change Phone Number/Change Phone Number_AMU Maker_DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4b7a2b61-a9a7-4ae2-8137-d7611eb8c93c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Change Phone Number/Change_Phone_number_data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>4b7a2b61-a9a7-4ae2-8137-d7611eb8c93c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>a2a1dc5c-8dcf-43ce-9b01-6e40fe1d9061</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4b7a2b61-a9a7-4ae2-8137-d7611eb8c93c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>130f9349-d479-4ffd-b69a-ad750ac65848</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4b7a2b61-a9a7-4ae2-8137-d7611eb8c93c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Token</value>
+         <variableId>4cbfb3dd-eef5-4a27-97b4-7295c4de903f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4b7a2b61-a9a7-4ae2-8137-d7611eb8c93c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Customer_Name</value>
+         <variableId>04e3c5e8-4ca3-40ab-bacd-2d28f1d5adbc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4b7a2b61-a9a7-4ae2-8137-d7611eb8c93c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>New_Phone_Number</value>
+         <variableId>5343271a-7709-4422-8491-9a2ac6698123</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

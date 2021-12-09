@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid Login_DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>511ad0ce-a98d-4010-9256-8e8f41bc5bbf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>292ea607-058a-4248-b1f9-36059885ace2</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2b556fd-5c40-4c5b-ba6b-3b85329d66aa</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5848cdc-d66a-4938-a274-a0961247defc</id>
+      <masked>false</masked>
+      <name>Token</name>
+   </variable>
+</TestCaseEntity>
